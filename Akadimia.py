@@ -1,4 +1,4 @@
-! pip install gradio 
+
 import gradio as gr
 title = "Akadimia Ai Demo"
 description = "Akadimia Ai is the worlds largest Ai Library, here is a demonstration of its predictive ABILITY!!! To use it, simply add your text, or click one of the examples to load them. Read more at the links below."
